@@ -5,6 +5,7 @@
 - 📫 Adjusts systemctl shutdown timers
 - 😄 Bamboccione
 - ⚡ Still drinks beer
+- 👋 Learn feng shui & blame the furniture 
 
 <!---
 thesaigoneer/thesaigoneer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
